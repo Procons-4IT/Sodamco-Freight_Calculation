@@ -1,0 +1,34 @@
+D:\Project\Sodamco\Freight_Calculation\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\Sodamco\Freight_Calculation\obj\Debug\Interop.SAPbobsCOM.dll
+D:\Project\Sodamco\Freight_Calculation\obj\Debug\Interop.SAPbouiCOM.dll
+D:\Project\Sodamco\Freight_Calculation\obj\Debug\Interop.Scripting.dll
+D:\Project\Sodamco\Freight_Calculation\obj\Debug\Freight_Calc.vbproj.ResolveComReference.cache
+D:\Project\Sodamco\Freight_Calculation\obj\Debug\Sodamco.Resources.resources
+D:\Project\Sodamco\Freight_Calculation\obj\Debug\ResGen.read.1.tlog
+D:\Project\Sodamco\Freight_Calculation\obj\Debug\ResGen.write.1.tlog
+D:\Project\Sodamco\Freight_Calculation\obj\Debug\Sodamco.exe
+D:\Project\Sodamco\Freight_Calculation\obj\Debug\Sodamco.xml
+D:\Project\Sodamco\Freight_Calculation\obj\Debug\Sodamco.pdb
+D:\Project\Sodamco\Freight_Calculation\bin\Debug\Sodamco.exe
+D:\Project\Sodamco\Freight_Calculation\bin\Debug\Sodamco.pdb
+D:\Project\Sodamco\Freight_Calculation\bin\Debug\Sodamco.xml
+D:\Project\Sodamco\Freight_Calculation\bin\Debug\Interop.SAPbobsCOM.dll
+D:\Project\Sodamco\Freight_Calculation\bin\Debug\Interop.SAPbouiCOM.dll
+D:\Project\Sodamco\Freight_Calculation\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\obj\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\obj\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\obj\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\obj\Debug\Freight_Calc.vbproj.ResolveComReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\bin\Debug\Freight_Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\bin\Debug\Freight_Calculation.pdb
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\bin\Debug\Freight_Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\bin\Debug\Interop.SAPbobsCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\bin\Debug\Interop.SAPbouiCOM.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\bin\Debug\Interop.Scripting.dll
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\obj\Debug\ResolveAssemblyReference.cache
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\obj\Debug\Freight_Calculation.Resources.resources
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\obj\Debug\ResGen.read.1.tlog
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\obj\Debug\ResGen.write.1.tlog
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\obj\Debug\Freight_Calculation.exe
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\obj\Debug\Freight_Calculation.xml
+G:\International Projects_SAP9.0\Procons-4IT\Sodamco\Sodamco Projects splitups\FreightCalculation\Freight_Calculation\obj\Debug\Freight_Calculation.pdb
